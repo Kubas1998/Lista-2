@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 public class Main {
 
-     final private static HashMap<String,String> aliases = new HashMap<>();
+    final private static HashMap<String,String> aliases = new HashMap<>();
 
     static{
         aliases.put("getSummary","[id] Pobiera fakture");
